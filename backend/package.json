@@ -22,7 +22,7 @@
     "sqlite3": "^4.1.1"
   },
   "devDependencies": {
-    "knex": "^0.20.14",
+    "knex": "^2.4.0",
     "nodemon": "^2.0.3"
   }
 }
